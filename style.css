@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar
+{
+    background-color: black;
+    color: white;
+}
+
+.content
+{
+    background-color: #CCCCCC;
+
+}
+
+main
+{
+    margin: auto;
+    width: 1500px;
+    background-color: white;
+}
+header
+{
+    text-align: center;
+    margin: auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.box1
+{
+
+}
+.box1>img
+{
+    width: 100%;
+}
